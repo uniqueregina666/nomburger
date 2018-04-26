@@ -1,0 +1,20 @@
+{
+  "name": "nomburger",
+  "version": "1.0.0",
+  "description": "a burger logger with MySQL, Node, Express, Handlebars and an ORM.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniqueregina666/nomburger.git"
+  },
+  "author": "Regina Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uniqueregina666/nomburger/issues"
+  },
+  "homepage": "https://github.com/uniqueregina666/nomburger#readme"
+}
